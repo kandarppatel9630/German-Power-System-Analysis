@@ -120,4 +120,4 @@ Charts are saved automatically to the `outputs/` directory.
 
 ## Data Source
 
-Electricity generation and consumption data from the [ENTSO-E Transparency Platform](https://transparency.entsoe.eu/), covering Germany's bidding zone.
+Electricity generation and consumption data from [SMARD](https://www.smard.de/) (Strommarktdaten), the German Federal Network Agency's (Bundesnetzagentur) official energy market data platform.
