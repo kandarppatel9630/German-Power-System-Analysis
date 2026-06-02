@@ -109,32 +109,6 @@ Most hour-to-hour changes in residual load are small, but the tails reveal signi
 
 ---
 
-## Requirements
-
-```
-pandas
-numpy
-matplotlib
-```
-
-Install with:
-
-```bash
-pip install pandas numpy matplotlib
-```
-
----
-
-## Usage
-
-```bash
-python "Deutsche Strom Analyse.py"
-```
-
-Charts are saved automatically to the `outputs/` directory.
-
----
-
 ## Data Source
 
 Electricity generation and consumption data from [SMARD](https://www.smard.de/) (Strommarktdaten), the German Federal Network Agency's (Bundesnetzagentur) official energy market data platform.
